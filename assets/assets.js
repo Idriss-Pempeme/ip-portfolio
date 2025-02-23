@@ -79,23 +79,23 @@ export const assets = {
 export const workData = [
     {
         title: 'ANK Shop',
+        description: 'WordPress',
+        bgImage: '/2.png',
+    },
+    {
+        title: 'React JS Portfolio',
+        description: 'FrontEnd',
+        bgImage: '/1.png',
+    },
+    {
+        title: 'Aquageniks',
         description: 'Web Design',
-        bgImage: '/work-1.png',
+        bgImage: '/3.png',
     },
     {
-        title: 'Geo based app',
-        description: 'Mobile App',
-        bgImage: '/work-2.png',
-    },
-    {
-        title: 'Photography site',
-        description: 'Web Design',
-        bgImage: '/work-3.png',
-    },
-    {
-        title: 'UI/UX designing',
-        description: 'UI/UX Design',
-        bgImage: '/work-4.png',
+        title: 'Esthy Fashion',
+        description: 'Logo Design',
+        bgImage: '/4.png',
     },
 ]
 
