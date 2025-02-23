@@ -78,7 +78,7 @@ export const assets = {
 
 export const workData = [
     {
-        title: 'Frontend project',
+        title: 'ANK Shop',
         description: 'Web Design',
         bgImage: '/work-1.png',
     },
